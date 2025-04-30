@@ -75,4 +75,4 @@ python main.py
 - For accuracy, capture face images from multiple angles during registration
 
 ## Contact
-For support: piyushooo@gmail.com
+For support: mayankrajput0108@gmail.com
